@@ -1,4 +1,5 @@
 /**
+ * dominio rico expressa as regras
  * regras de negócio
  */
 class Customer2 {
