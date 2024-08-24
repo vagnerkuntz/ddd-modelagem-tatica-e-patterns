@@ -1,7 +1,7 @@
 /**
  * entidade anêmica
  * entidade: tem id unico e valores que alteram com o tempo,
- * essa classe é anêmica porque não tem regras de negocio, apenas carrega dados
+ * essa classe é anêmica porque não tem regras de negócio, apenas carrega dados
  * normalmente usada para ORM
  */
 
